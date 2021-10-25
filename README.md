@@ -114,6 +114,8 @@ In this literature review we start with the needs to have the Recommendation Sys
 
 [microsoft/recommenders: Best Practices on Recommendation Systems](https://github.com/microsoft/recommenders)
 
+[facebookresearch/dlrm: An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm)
+
 ## Duplicate the results
 
 To be updated
